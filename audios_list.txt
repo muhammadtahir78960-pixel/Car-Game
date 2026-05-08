@@ -33,3 +33,7 @@ repair.mp3
 shield.mp3
 short-beep.mp3
 start.mp3
+Start2.mp3
+start3.mp3
+win1.mp3
+win2.mp3
