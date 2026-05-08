@@ -27,12 +27,9 @@ engine6.ogg
 gift.mp3
 High score.mp3
 motorcycle passing.mp3
+person.mp3
 purchase.ogg
 repair.mp3
 shield.mp3
 short-beep.mp3
 start.mp3
-Start2.mp3
-start3.mp3
-win1.mp3
-win2.mp3
