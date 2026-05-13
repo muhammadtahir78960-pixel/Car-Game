@@ -2,6 +2,7 @@ acceleration1.mp3
 acceleration2.mp3
 alert.mp3
 alert2.mp3
+bump.mp3
 car horn.mp3
 car passing1.mp3
 car passing2.mp3
@@ -35,5 +36,6 @@ short-beep.mp3
 start.mp3
 Start2.mp3
 start3.mp3
+swoosh1.mp3
 win1.mp3
 win2.mp3
