@@ -1,3 +1,5 @@
+cgrm_manager.lua
+data_manager.lua
 main.lua
 online_manager.lua
 racing_manager.lua
