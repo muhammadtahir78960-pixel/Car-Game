@@ -1,1 +1,3 @@
+Racing mode more stable
+UI improvements
 bug fixes
