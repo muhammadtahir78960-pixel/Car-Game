@@ -1,3 +1,2 @@
-Racing mode more stable
-UI improvements
-bug fixes
+Online multiplayer mode added
+tts configuration
