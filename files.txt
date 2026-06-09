@@ -1,6 +1,12 @@
+audio_manager.lua
+bdm_manager.lua
 cgrm_manager.lua
 data_manager.lua
 main.lua
 online_manager.lua
 racing_manager.lua
+s_i_manager.lua
+settings_manager.lua
+stats_manager.lua
 ui_manager.lua
+welcome_manager.lua
