@@ -1,2 +1,6 @@
 Online multiplayer mode added
-tts configuration
+Multiplayer mode ad reduced 50 to 20
+Car Game custom tts configuration
+racing mode game over screen modified
+UI improvements
+Bug stability fixes
