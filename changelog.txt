@@ -1,7 +1,11 @@
 Online multiplayer mode added
 Multiplayer mode ad reduced 50 to 20
-Car Game custom tts configuration
 Developer gift feature added
-New sounds effect added
+Lobby screen more optimized.
+Now you can send messages in room and view past messages.
+developer message for you feature added in main screen.
+showroom come in next update.
+Now every player select car control when the room creator started the game.
+You and Your opponent player in same track you need to avoid crash with Your opponent car for avoid big penalty.
 UI improvements
 stability fixes
