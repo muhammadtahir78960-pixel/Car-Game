@@ -1,3 +1,4 @@
+init.lua
 audio_manager.lua
 bdm_manager.lua
 cgrm_manager.lua
