@@ -1,5 +1,5 @@
-Lobby screen more optimized.
-Developer message button has been replaced to public notification where you can get developer notifications regarding the Car game.
-A new button called Control Messages has been added to the lobby screen, here the room creator can control room messages.
-Send messages More stable.
-showroom come in next update.
+A big update has arrived.
+online tournament Added.
+showroom now available, you can purchase new car.
+bug fixes.
+for more details you can watch this tutorial: https://youtu.be/-GScrbPJIaI
