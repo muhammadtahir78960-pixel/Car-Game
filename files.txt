@@ -6,9 +6,11 @@ data_manager.lua
 gift_manager.lua
 main.lua
 online_manager.lua
+online_multiplayer_manager.lua
 racing_manager.lua
 s_i_manager.lua
 settings_manager.lua
 stats_manager.lua
+tournament_manager.lua
 ui_manager.lua
 welcome_manager.lua
