@@ -1,5 +1,17 @@
-A big update has arrived.
-online tournament Added.
-showroom now available, you can purchase new car.
-bug fixes.
-for more details you can watch this tutorial: https://youtu.be/-GScrbPJIaI
+🚀 What's New in This Update! 🚀
+​We are excited to bring you a fresh update with new features, better stability, and improved controls! Here is what’s new:
+​🌐 1. All-New Global Chat
+​Stay connected! A new Global Chat system has been introduced so you can chat with players worldwide in real time.
+​🏎️ 2. Distance-Based Racing Rewards
+​In Online Racing Mode, winning prizes are now dynamically set based on the race distance. The longer the distance, the bigger the reward!
+​📚 3. Redesigned Tutorial Screen
+​The Tutorial Screen gets a complete visual overhaul. Each line now highlights individually for easier reading and focus.
+​🎥 4. Hourly Ad Watching Limit
+​To ensure fair play and balanced progression, a limit of 10 ads per hour has been implemented.
+​⚙️ 5. Enhanced Audio Settings
+​Take control of your sound! Added toggle switches in Settings to easily turn ON/OFF the Welcome Music and the Racing Mode Selection Music.
+​🏆 6. Tournament Lobby & Auto-Join System
+​Fixed stability issues in the Tournament Lobby player list.
+​Tournament creators are now automatically joined to the lobby upon creation.
+​⚡ 7. Home Screen Performance Optimization
+​The Home Screen has been fully optimized for faster loading and a much smoother overall experience.
