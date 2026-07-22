@@ -2,6 +2,7 @@ init.lua
 audio_manager.lua
 bdm_manager.lua
 cgrm_manager.lua
+chat_manager.lua
 data_manager.lua
 gift_manager.lua
 main.lua
