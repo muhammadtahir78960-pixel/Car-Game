@@ -55,6 +55,8 @@ start4.wav
 swoosh1.mp3
 Tony's Mayhem Theme Marco.mp3
 welcome.mp3
+ win1.mp3
+ win2.mp3
 zombie death.mp3 
 zombie1.mp3 
 zombie2.mp3
