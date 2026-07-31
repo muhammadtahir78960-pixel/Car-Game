@@ -1,5 +1,5 @@
 appname="Car Game"
-appver="1.8"
+appver="2.0"
 appcode="1"
 appsdk="15"
 path_pattern=""
@@ -14,6 +14,7 @@ user_permission={
   "ACCESS_NETWORK_STATE",
   "ACCESS_WIFI_STATE",
   "INTERNET",
+  "READ_EXTERNAL_STORAGE",
   "VIBRATE",
   "WRITE_EXTERNAL_STORAGE"
 }
