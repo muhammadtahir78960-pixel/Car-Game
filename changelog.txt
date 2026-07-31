@@ -1,17 +1,12 @@
-🚀 What's New in This Update! 🚀
-​We are excited to bring you a fresh update with new features, better stability, and improved controls! Here is what’s new:
-​🌐 1. All-New Global Chat
-​Stay connected! A new Global Chat system has been introduced so you can chat with players worldwide in real time.
-​🏎️ 2. Distance-Based Racing Rewards
-​In Online Racing Mode, winning prizes are now dynamically set based on the race distance. The longer the distance, the bigger the reward!
-​📚 3. Redesigned Tutorial Screen
-​The Tutorial Screen gets a complete visual overhaul. Each line now highlights individually for easier reading and focus.
-​🎥 4. Hourly Ad Watching Limit
-​To ensure fair play and balanced progression, a limit of 10 ads per hour has been implemented.
-​⚙️ 5. Enhanced Audio Settings
-​Take control of your sound! Added toggle switches in Settings to easily turn ON/OFF the Welcome Music and the Racing Mode Selection Music.
-​🏆 6. Tournament Lobby & Auto-Join System
-​Fixed stability issues in the Tournament Lobby player list.
-​Tournament creators are now automatically joined to the lobby upon creation.
-​⚡ 7. Home Screen Performance Optimization
-​The Home Screen has been fully optimized for faster loading and a much smoother overall experience.
+What's New in v2.0: 
+Last update date 31 July 2026
+​Security Features: Enhanced overall security for better protection.
+​Email & Password Registration: Profiles are now securely saved, allowing you to log in and use the same account across multiple devices. Transitioning to the new registration system ensures your current progress is safely retained.
+​Multiple Backup Methods: You can now back up your offline profile using 3 convenient methods:
+​The newly improved legacy key system.
+​Local file backup in internal storage.
+​Password-protected online backup.
+Note: All these backups are one-time use only and cannot be reused.
+​Global Chat: Now completely free, featuring exciting new additions and improvements to existing features. You can now save all messages directly to your internal storage.
+​UI Optimizations: The settings and home screen have been optimized for a smoother experience.
+​Car Game APK: Launched with full Android 16 support. You can download it by clicking the post from the notification.
