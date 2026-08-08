@@ -1,12 +1,13 @@
-What's New in v2.0: 
-Last update date 31 July 2026
-​Security Features: Enhanced overall security for better protection.
-​Email & Password Registration: Profiles are now securely saved, allowing you to log in and use the same account across multiple devices. Transitioning to the new registration system ensures your current progress is safely retained.
-​Multiple Backup Methods: You can now back up your offline profile using 3 convenient methods:
-​The newly improved legacy key system.
-​Local file backup in internal storage.
-​Password-protected online backup.
-Note: All these backups are one-time use only and cannot be reused.
-​Global Chat: Now completely free, featuring exciting new additions and improvements to existing features. You can now save all messages directly to your internal storage.
-​UI Optimizations: The settings and home screen have been optimized for a smoother experience.
-​Car Game APK: Launched with full Android 16 support. You can download it by clicking the post from the notification.
+​🚘 Car Racing Thrills - Fresh Update is Live! 🏁
+📅 Update Date: 8 August 2026
+​Gear up, drivers! 🏎️ We've brought a brand-new update packed with exciting chat features, bug fixes, and performance improvements to keep your engine roaring! 🚦💨
+​🔥 What’s New & Improved:
+​😍 Message Reactions in Global Chat:
+Express yourself better on the track and in the chat! You can now react to messages from other players with your favorite emojis. 💬👍❤️
+​📌 Keep & Unkeep Messages:
+Never lose track of important messages or strategic tips again! Use the new Keep feature to save important global chat messages directly for yourself. 💾⭐
+​🛠️ Global Chat Loading & Date Fixes:
+We fixed the loading delays and date/time display issues in the global chat for a smoother experience. ⏱️🔄
+​⚡ Chat & Notification Stability:
+Enjoy seamless communication! We have optimized both the Global Chat and the Notification system to ensure faster delivery and better stability. 📲🚀
+​Thank you for riding with us! See you at the finish line! 🏆🏁🎮
