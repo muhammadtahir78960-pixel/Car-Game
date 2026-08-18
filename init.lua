@@ -1,5 +1,5 @@
 appname="Car Game"
-appver="2.0"
+appver="2.4"
 appcode="1"
 appsdk="15"
 path_pattern=""
