@@ -1,33 +1,30 @@
-🚗 Car Game v2.4 - What's New! 🏁
-​📅 Last Update Date: August 18, 2026
-​Welcome to the latest update of Car Game! We have packed version 2.1 with exciting new features, improvements, and bug fixes to elevate your gaming experience.
-​🌟 Major Highlights & New Features
-​🎁 Enhanced Daily Rewards
-​Daily rewards now offer more than just fuel! You can now get additional inventory items like Gasoline and AI Pilot Chip.
-​🛒 Shop Upgrades
-​You can now upgrade the shop using diamonds to buy multiple items.
-​🔊 New SFX
-​Brand new sound effects (SFX) have been added to make the gameplay much more immersive.
-​🛠️ Engine Health & Mechanic Shop
-​An engine health system has been introduced in racing mode! If your engine health drops, you can get your vehicle repaired from the Mechanic Shop.
-​🎙️ TTS Stream Channel
-​A TTS stream channel has been added, allowing you to select it according to your preference.
-​💾 Backup System Update
-​The backup system has been updated to include additional profile data for better security.
-​👤 Username Update
-​Usernames have been standardized with updated rules:
-​The character limit has been reduced/set to 20 characters.
-​You can now use uppercase, lowercase, numbers, and special characters (., _, -).
-​🌐 Online Profile Stats
-​User ID and Tournament Host stats have been added to online profiles.
-​💬 Global Chat Update
-​50 reactions have been added to global chat, and you can now see who reacted to messages.
-​🏆 Tournament Updates
-​A Private Tournament button has been added to the tournament join screen, allowing creators and joiners to view tournaments without a code.
-​Tournament creators can now select the race distance.
-​Creators can delete tournaments after they end.
-​Fixed an issue where the device would freeze while collecting tournament winning rewards.
-​🔧 Improvements & Bug Fixes
-​📱 UI Improvements: The User Interface (UI) has been improved for a smoother experience.
-​🐛 Bug Fixes: Various bugs have been fixed.
-​🚀 There is much more for you to explore and discover in the game!
+🚗 What's New in Car Game v2.5! 🚀
+​📅 Last Update Date: Sept 03, 2026
+​We are thrilled to bring you a massive update packed with exciting new features, gameplay enhancements, and crucial bug fixes!
+​🔥 Engine Temperature & Cooling System (Racing Mode)
+​Overheating Challenge: Car engine temperature mechanics added to Racing Mode for a more realistic and challenging drive!
+​New Cooling Items: Cool down your engine using new inventory items—now available for purchase from Mechanic Leo at the Garage.
+​🏎️ Offline Racing Lobby & Screen Reader Mode
+​Enhanced Lobby: Improved the Offline Racing Lobby interface for a smoother experience.
+​Screen Reader Mode: Introduced a dedicated Screen Reader Mode (Note: Winning rewards for this mode are slightly reduced).
+​🕹️ Gameplay Improvements
+​Idle Safety: Crashes and Zombie Kills will no longer trigger while in idle condition.
+​Honking Traffic: Selected obstacle cars will now blow their horn in traffic!
+​🏆 Tournament Mode Enhancements
+​Player Status: Real-time Online/Offline status indicators added to the Tournament Lobby.
+​Vice Captain Role: Highly requested Vice Captain feature is now officially implemented!
+​Creator Auto-Join: Tournament creators can now use the new Auto-Join checkbox when hosting.
+​🎁 New Gifting System
+​Send and receive online gifts directly with your in-game friends!
+​💬 Global Chat Upgrades
+​Better Stability: Improved screen stability for a lag-free chatting experience.
+​One-Click Clear: Instantly clear all kept messages with a single tap.
+​Higher Character Limit: Express yourself better with increased message character limits.
+​🔐 Login, Registration & Support
+​Enhanced Stability: Login and Registration screens are now much more reliable.
+​Direct Support: Added Developer WhatsApp Contact, Official WhatsApp Gaming Group, and Developer Email in the About section.
+​🏪 UI, Accessibility & Bug Fixes
+​Shop Layout: Redesigned Shop UI for a sleek and smooth browsing experience.
+​Audio & Accessibility: Better overall accessibility support paired with brand-new SFX.
+​Bug Fixes: Resolved issues across Online Racing, Reaction Mode, and Player Stats.
+​Update your game now and enjoy the ultimate driving experience! 🚘💥
