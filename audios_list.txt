@@ -22,6 +22,11 @@ car-acceleration2.mp3
 car-acceleration4.mp3
 car-crash1.mp3
 car-horn.mp3
+car-horn1.mp3
+car-horn2.mp3
+car-horn3.mp3
+car-horn4.mp3
+car-horn5.mp3
 cat.wav
 click1.mp3
 countdown1.mp3
