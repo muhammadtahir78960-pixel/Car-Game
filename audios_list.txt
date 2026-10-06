@@ -52,6 +52,9 @@ msg receved.mp3
 msg send.ogg
 person.mp3
 purchase.ogg
+record discard.mp3
+record start.mp3
+record stop.mp3
 repair.mp3
 RomanSenykMusic.mp3
 running.mp3
