@@ -1,16 +1,14 @@
-🚀 What's New in Car Game v2.6! 🚀
-​🗓 Release Date: Tuesday, October 06, 2026
-​We are thrilled to bring you the latest version of Car Game with exciting new features, enhanced performance, and major bug fixes! Here is everything new in this update:
-​🌐 Global Chat Upgrades & Stabilization
-​🎙 Voice Notes Feature: Express yourself better! You can now send and listen to voice messages directly inside the Global Chat. Connect with other players around the world with instant audio communication.
-​⚡ Improved Stability: The Global Chat system has been fully optimized to ensure smoother real-time messaging with no lag or disconnects.
-​♿ Enhanced Accessibility: Screen reader navigation and accessibility support for Global Chat have been vastly improved for a seamless gaming experience for everyone.
-​🏆 Tournament System Improvements
-​🗑 Tournament Deletion Feature Restored: Creators can now easily manage their hostings! Once all tournament races are completed, the tournament creator has the authority to delete the completed tournament.
-​🛠 Bug Fixes & Technical Enhancements
-​🎵 Slider Audio Issue Resolved: Fixed the sound error caused by custom background music sliders. Unnecessary audio triggers have been removed to prevent crashing and smooth out volume adjustments.
-​📁 Export Chat & System Fixes: Resolved issues related to exporting chat logs along with various minor bugs and performance optimizations.
-​📥 Download & Stay Connected!
-​📱 New APK Release:
-The latest APK version is officially live! You can easily download and update it directly from the In-Game Settings.
-​🎮 Update now and jump into the action! Happy Racing! 🏎💨
+🎮 Car Game v2.7 Update is Live! 🚀
+📅 Last Update On: [Friday, November, 06, 2026]
+Here is what is new and improved in this version:
+💬 Private Chat
+​Players can now send personal direct messages to each other alongside Global Chat!
+​⚠️ Note: Please keep in mind that this chat feature is not end-to-end encrypted.
+🌍 Global Chat - New Features & Improvements
+​⚡ Playback Speed: Added playback speed controls for voice messages.
+​🎯 Smart Scroll & Highlight: Clicking on a selected reply will now auto-scroll directly to the target message and highlight it.
+​↗️ Voice Message Sharing: Voice messages can now be shared easily.
+🐛 Bug Fixes
+​Fixed an issue where voice message replies were not showing the correct mention tag.
+🎬 Want more details? Watch the video here:
+https://youtu.be/JBWMynnby04?si=yOKU2tycwqUPkj_V
