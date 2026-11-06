@@ -8,6 +8,8 @@ gift_manager.lua
 main.lua
 online_manager.lua
 online_multiplayer_manager.lua
+private_chat_room.lua
+private_chatt.lua
 profile2_manager.lua
 racing_manager.lua
 s_i_manager.lua
